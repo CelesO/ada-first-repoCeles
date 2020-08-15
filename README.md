@@ -2,4 +2,4 @@
 Primer proyecto Git en Ada
 
 
-** 
+**no te rindas tan facilmente**
