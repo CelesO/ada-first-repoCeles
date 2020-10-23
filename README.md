@@ -2,7 +2,7 @@
 
 ## Primer proyecto Git en Ada :heart:
 
-*no te rindas tan fácilmente, vos podes*
+*vos podes*
 ```
 escucha "Shuniji"
 de C418
