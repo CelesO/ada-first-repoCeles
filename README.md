@@ -2,9 +2,8 @@
 
 ## Primer proyecto Git en Ada :heart:
 
-*vos podes*
+*¡mas práctica!*
 ```
-escucha "Shuniji"
-de C418
+escucha "Shuniji" de C418
 ```
 
